@@ -1,0 +1,50 @@
+project:
+  title: "CYBV 529"
+  
+subtitle: "CYBV 529 2024-25 Fall"
+  
+author:
+  name: "Jane Doe"
+  email: "janedoe@arizona.edu"
+  url: https://azcast.arizona.edu
+  affiliation:
+    - name: "University of Arizona"
+      department: "Cyber, Intel, & Information Operations"
+      
+citation:
+  container-title: "CYBV 529: Cyber Law, Ethics, & Policy"
+
+date: last-modified
+
+title-block-banner: "#0C234B"
+title-block-banner-color: "#FFFFFF"
+
+#footnotes-hover: true
+
+license: "CC BY"
+
+number-sections: false
+
+bibliography: refs.bib
+csl: apa.csl
+
+mainfont: "Cochineal"
+sansfont: "Cochineal"
+
+format:
+  html:
+    embed-resources: true
+    output-ext: "html"
+  # revealjs:
+  #   embed-resources: true
+  #   standalone: true
+  #   theme: simple
+  #   #navigation-mode: vertical
+  #   controls-tutorial: true
+  #   show-slide-number: print
+  #   email-obfuscation: javascript
+      
+execute:
+  echo: false
+  message: false
+  warning: false

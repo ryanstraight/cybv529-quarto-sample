@@ -1,0 +1,11 @@
+---
+title: "Memorandum 1"
+
+format:
+  html:
+    output-file: "CYBV529-Memo1-Doe-Jane"
+---
+
+This is the content of my memorandum. I have chosen @hobbesLeviathan1651.
+
+{{< lipsum 2 >}}
