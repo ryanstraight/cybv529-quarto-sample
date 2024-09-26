@@ -4,6 +4,9 @@ title: "Memorandum 1"
 format:
   html:
     output-file: "CYBV529-Memo1-Doe-Jane"
+  typst:
+    output-file: "CYBV529-Memo1"
+    output-ext: "pdf"
 ---
 
 This is the content of my memorandum. I have chosen @hobbesLeviathan1651.
