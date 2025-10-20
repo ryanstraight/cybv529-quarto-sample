@@ -7,8 +7,11 @@ format:
   typst:
     output-file: "CYBV529-Memo1"
     output-ext: "pdf"
+  docx: default
 ---
 
-This is the content of my memorandum. I have chosen @hobbesLeviathan1651.
+This is the content of my memorandum. I can reference my citations using BibTex [@grabowskiCyberLawEthics2021].
 
 {{< lipsum 2 >}}
+
+## References

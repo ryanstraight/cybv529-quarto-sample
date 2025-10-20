@@ -1,7 +1,7 @@
 project:
   title: "CYBV 529"
   
-subtitle: "CYBV 529 2024-25 Fall"
+subtitle: "CYBV 529 2025-26 Fall"
   
 author:
   name: "Jane Doe"
@@ -9,7 +9,7 @@ author:
   url: https://azcast.arizona.edu
   affiliation:
     - name: "University of Arizona"
-      department: "Cyber, Intel, & Information Operations"
+      department: "Cyber & Information Operations"
       
 citation:
   container-title: "CYBV 529: Cyber Law, Ethics, & Policy"
